@@ -1,6 +1,4 @@
 ## Oiii eu sou a Felipe Oliveira, criadora de conteúdo de programação e tecnologia!
-
-## Olá, me chamo Juan!
 Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
 <br> Analista Júnior na Linx | Stone Co.
 

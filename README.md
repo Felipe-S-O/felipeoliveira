@@ -1,11 +1,12 @@
-## Oiii eu sou a Felipe Oliveira, criadora de conteúdo de programação e tecnologia!
-Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
+## Olá, eu sou o Felipe Silva !
+Analista e Desenvolvedor de Sistemas 
 <br> Analista Júnior na Linx | Stone Co.
 
 ##
 
 ### 💻 Estudando no momento:
-* Aplicação Java para sistema Web
+* Spring boot
+* Android studio com java
 * Aprimorando os conhecimentos em Banco de Dados
 
 ##

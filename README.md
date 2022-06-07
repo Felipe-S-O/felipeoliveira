@@ -1,7 +1,7 @@
 ## Oiii eu sou a Felipe Oliveira, criadora de conteúdo de programação e tecnologia!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
   <img align="center" alt="Felipe-androidstudio" height="60" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Felipe-androidstudio" height="60" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  

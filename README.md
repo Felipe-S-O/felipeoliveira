@@ -1,5 +1,17 @@
 ## Oiii eu sou a Felipe Oliveira, criadora de conteúdo de programação e tecnologia!
 
+## Olá, me chamo Juan!
+Estudante de Análise e Desenvolvimento de Sistemas pela UNIESP - Cabedelo/PB
+<br> Analista Júnior na Linx | Stone Co.
+
+##
+
+### 💻 Estudando no momento:
+* Aplicação Java para sistema Web
+* Aprimorando os conhecimentos em Banco de Dados
+
+##
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

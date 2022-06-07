@@ -1,8 +1,7 @@
 ## Oiii eu sou a Felipe Oliveira, criadora de conteúdo de programação e tecnologia!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Juan-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-
-original.svg">
+  <img align="center" alt="Juan-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Juan-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Juan-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/react-original.svg">
     <img align="center" alt="Juan-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">

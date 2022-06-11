@@ -37,3 +37,4 @@ Analista e Desenvolvedor de Sistemas
  
   ![Snake animation](https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg)
 </div>
+ 

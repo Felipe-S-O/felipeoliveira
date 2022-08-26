@@ -1,4 +1,4 @@
-## Olá, sou o Felipe Silva!
+## Olá, sou Felipe Silva!
 Analista e Desenvolvedor de Sistemas 
 <br> Analista Júnior na Linx | Stone Co.
 

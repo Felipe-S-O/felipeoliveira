@@ -1,13 +1,12 @@
 ## Olá, sou Felipe Silva!
 Analista e Desenvolvedor de Sistemas 
 <br> Analista Júnior na Linx | Stone Co.
-
+<br> CEO na inottec.
 ##
 
 ### 💻 Estudando no momento:
 * Spring boot
-* Android studio com java
-* Aprimorando os conhecimentos em Banco de Dados
+* React
 
 ##
 
@@ -26,7 +25,8 @@ Analista e Desenvolvedor de Sistemas
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
  </div>
-
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+          
   
   ##
  

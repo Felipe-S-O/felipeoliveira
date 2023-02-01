@@ -1,13 +1,12 @@
 ## Olá, sou Felipe Silva!
 ## Bem vindo ao meu perfil GitHub 👋
-</br>
 <div display="inline-block">
  <p align="left">🎓 Formado em Analista e Desenvolvedor de Sistemas na <a href="https://estacio.br/">Estacio de Sá</a>;</p>
  <p align="left">🧑‍💻 Atualmente estou trabalhando de Analista Júnior na <a href="https://https://www.linx.com.br/">Linx</a>;</p>
  <p align="left">⚡ Fundei a <a href="https://www.alura.com.br/">inottec</a> uma empresa de soluções tecnológica;</p>
  <p align="left">📚 Atualmente estou aprendendo Spring, React para desenvolver uma aplicação web;</p>
 </div>
-
+</br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>

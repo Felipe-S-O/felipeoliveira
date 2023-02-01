@@ -1,5 +1,28 @@
 ## Olá, sou Felipe Silva!
 ## Bem vindo ao meu perfil GitHub 👋
+</br>
+<div display="inline-block">
+ <p align="left">🎓 Formado em Analista e Desenvolvedor de Sistemas na <a href="https://estacio.br/">Estacio de Sá</a>;</p>
+ <p align="left">🧑‍💻 Atualmente estou trabalhando de Analista Júnior na <a href="https://https://www.linx.com.br/">Linx</a>;</p>
+ <p align="left">⚡ Fundei a <a href="https://www.alura.com.br/">inottec</a> uma empresa de soluções tecnológica;</p>
+ <p align="left">📚 Atualmente estou aprendendo Spring, React para desenvolver uma aplicação web;</p>
+</div>
+
+
+### 🖥️ Tecnologias e Ferramentas: 
+<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring-Boot"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+
+
+
+
 Analista e Desenvolvedor de Sistemas 
 <br> Analista Júnior na Linx | Stone Co.
 <br> CEO na inottec.

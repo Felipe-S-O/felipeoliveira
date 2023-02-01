@@ -21,19 +21,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
 
-
-
-Analista e Desenvolvedor de Sistemas 
-<br> Analista Júnior na Linx | Stone Co.
-<br> CEO na inottec.
-##
-
-### 💻 Estudando no momento:
-* Spring boot
-* React
-
-##
-
 <div style="display: inline_block"><br>
   
    <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">

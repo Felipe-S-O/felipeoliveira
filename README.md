@@ -1,5 +1,6 @@
 ## Olá, sou Felipe Silva!
 ## Bem vindo ao meu perfil GitHub 👋
+<img width="300px" align="right" src="https://user-images.githubusercontent.com/63815922/216211632-2f39db76-5690-447b-8deb-55b9e387b31d.png">
 <div display="inline-block">
  <p align="left">🎓 Formado em Analista e Desenvolvedor de Sistemas na <a href="https://estacio.br/">Estacio de Sá</a>;</p>
  <p align="left">🧑‍💻 Atualmente estou trabalhando de Analista Júnior na <a href="https://www.linx.com.br/">Linx</a>;</p>

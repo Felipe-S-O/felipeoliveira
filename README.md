@@ -1,5 +1,4 @@
 ## Olá, sou Felipe Silva!
-<img width="280px" align="right" src="https://user-images.githubusercontent.com/63815922/216214228-91eed215-b963-4055-8733-50ca780da8bd.png">
 ## Bem vindo ao meu perfil GitHub 👋
 <div display="inline-block">
  <p align="left">🎓 Formado em Analista e Desenvolvedor de Sistemas na <a href="https://estacio.br/">Estacio de Sá</a>;</p>

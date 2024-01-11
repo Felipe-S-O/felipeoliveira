@@ -12,7 +12,7 @@
  <p align="left">🎓 Graduated in Systems Analyst and Developer at <a href="https://estacio.br/">Estacio de Sá</a>;</p>
  <p align="left">🧑‍💻 I am currently working on a project at <a href="https://www.inottec.com.br/">inottec</a>;</p>
  <p align="left">⚡ I founded <a href="https://www.inottec.com.br/">inottec</a>, a technology solutions company;</p>
- <p align="left">📚 I'm currently studying Spring, Angula and React to develop a web application;</p>
+ <p align="left">📚 I'm currently studying Spring, Angular and React to develop a web application;</p>
 </div>
 </br>
 
@@ -21,6 +21,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring-Boot"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React"/></code>
+<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" title = "Angular"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
@@ -34,10 +35,6 @@
   <a href= "https://inottec.com.br/felipe/"><img src="https://user-images.githubusercontent.com/63815922/205277493-470a46d6-968a-492a-abc9-cb08073982bb.png" target="_blank"></a>
   <a href= "https://inottec.com.br/"><img src="https://user-images.githubusercontent.com/63815922/205286127-493bab79-1336-44dd-be70-959d9c8e90b0.png" target="_blank"></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipe-S-O/Felipe-S-O/2fcd2f35aaecaa351164670576e9099a912bedb0/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipe-S-O/Felipe-S-O/2fcd2f35aaecaa351164670576e9099a912bedb0/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felipe-S-O/Felipe-S-O/2fcd2f35aaecaa351164670576e9099a912bedb0/github-contribution-grid-snake-dark.svg">
-</picture>
+![ Animação de cobra ] ( https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg )
 </div>
  

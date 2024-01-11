@@ -7,12 +7,12 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lato&size=25&pause=1000&color=87F738&center=true&vCenter=true&random=false&width=435&lines=I+am+a+full+stack+Developer;I+am+a+system+Developer;I+am+an+App+Developer;I+am+an+Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
-## Bem-vindo ao meu perfil GitHub 👋
+## Welcome to my GitHub profile 👋
 <div display="inline-block">
- <p align="left">🎓 Formado em Analista e Desenvolvedor de Sistemas na <a href="https://estacio.br/">Estacio de Sá</a>;</p>
- <p align="left">🧑‍💻 Atualmente estou trabalhando em um projeto da <a href="https://www.inottec.com.br/">inottec</a>;</p>
- <p align="left">⚡ Fundei a <a href="https://www.inottec.com.br/">inottec</a> uma empresa de soluções tecnológica;</p>
- <p align="left">📚 Atualmente estou estudando Spring, React para desenvolver uma aplicação web;</p>
+ <p align="left">🎓 Graduated in Systems Analyst and Developer at <a href="https://estacio.br/">Estacio de Sá</a>;</p>
+ <p align="left">🧑‍💻 I am currently working on a project at <a href="https://www.inottec.com.br/">inottec</a>;</p>
+ <p align="left">⚡ I founded <a href="https://www.inottec.com.br/">inottec</a>, a technology solutions company;</p>
+ <p align="left">📚 I'm currently studying Spring, Angula and React to develop a web application;</p>
 </div>
 </br>
 
@@ -37,7 +37,7 @@
 <imagem> _ _
   < source  media = " (prefere esquema de cores: escuro) "  srcset = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake-dark.svg " >
   < source  media = " (prefere esquema de cores: light) "  srcset = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg " >
-  < img  alt = " animação de cobra da grade de contribuição do github "  src = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake-dark.svg " >
+  < img  alt = " animação de cobra da grade de contribuição do github "  src = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg " >
 </ imagem >
 </div>
  

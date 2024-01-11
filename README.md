@@ -26,10 +26,6 @@
   <a href= "https://inottec.com.br/felipe/"><img src="https://user-images.githubusercontent.com/63815922/205277493-470a46d6-968a-492a-abc9-cb08073982bb.png" target="_blank"></a>
   <a href= "https://inottec.com.br/"><img src="https://user-images.githubusercontent.com/63815922/205286127-493bab79-1336-44dd-be70-959d9c8e90b0.png" target="_blank"></a>
 
- <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Felipe-S-O/Felipe-S-O/blob/output/github-contribution-grid-snake.svg"
-  />
   ![Snake animation](https://github.com/Felipe-S-O/Felipe-S-O/blob/output/github-contribution-grid-snake.svg)
 </div>
  

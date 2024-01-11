@@ -31,6 +31,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Felipe-S-O/Felipe-S-O/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/Felipe-S-O/Felipe-S-O/blob/output/github-contribution-grid-snake.svg">
 </picture>
-  ![Snake animation](https://github.com/Felipe-S-O/Felipe-S-O/blob/output/github-contribution-grid-snake.svg)
 </div>
  

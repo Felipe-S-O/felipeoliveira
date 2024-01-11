@@ -34,10 +34,10 @@
   <a href= "https://inottec.com.br/felipe/"><img src="https://user-images.githubusercontent.com/63815922/205277493-470a46d6-968a-492a-abc9-cb08073982bb.png" target="_blank"></a>
   <a href= "https://inottec.com.br/"><img src="https://user-images.githubusercontent.com/63815922/205286127-493bab79-1336-44dd-be70-959d9c8e90b0.png" target="_blank"></a>
 
-<imagem> _ _
-  < source  media = " (prefere esquema de cores: escuro) "  srcset = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake-dark.svg " >
-  < source  media = " (prefere esquema de cores: light) "  srcset = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg " >
-  < img  alt = " animação de cobra da grade de contribuição do github "  src = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg " >
-</ imagem >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 </div>
  

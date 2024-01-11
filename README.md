@@ -35,9 +35,9 @@
   <a href= "https://inottec.com.br/"><img src="https://user-images.githubusercontent.com/63815922/205286127-493bab79-1336-44dd-be70-959d9c8e90b0.png" target="_blank"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipe-S-O/Felipe-S-O/2fcd2f35aaecaa351164670576e9099a912bedb0/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipe-S-O/Felipe-S-O/2fcd2f35aaecaa351164670576e9099a912bedb0/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felipe-S-O/Felipe-S-O/2fcd2f35aaecaa351164670576e9099a912bedb0/github-contribution-grid-snake-dark.svg">
 </picture>
 </div>
  

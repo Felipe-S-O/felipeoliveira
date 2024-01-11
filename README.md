@@ -1,4 +1,12 @@
-## Olá, sou Felipe Silva!
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
+</div>
+<h1 align="center"> Welcome👋</h1>
+
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lato&size=25&pause=1000&color=87F738&center=true&vCenter=true&random=false&width=435&lines=I+am+a+full+stack+Developer;I+am+a+system+Developer;I+am+an+App+Developer;I+am+an+Open+Source+Enthusiast" alt="Typing SVG" /></a>
+</div>
+
 ## Bem-vindo ao meu perfil GitHub 👋
 <div display="inline-block">
  <p align="left">🎓 Formado em Analista e Desenvolvedor de Sistemas na <a href="https://estacio.br/">Estacio de Sá</a>;</p>
@@ -26,6 +34,10 @@
   <a href= "https://inottec.com.br/felipe/"><img src="https://user-images.githubusercontent.com/63815922/205277493-470a46d6-968a-492a-abc9-cb08073982bb.png" target="_blank"></a>
   <a href= "https://inottec.com.br/"><img src="https://user-images.githubusercontent.com/63815922/205286127-493bab79-1336-44dd-be70-959d9c8e90b0.png" target="_blank"></a>
 
-  ![ Animação de cobra ] ( https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg )
+<imagem> _ _
+  < source  media = " (prefere esquema de cores: escuro) "  srcset = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake-dark.svg " >
+  < source  media = " (prefere esquema de cores: light) "  srcset = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg " >
+  < img  alt = " animação de cobra da grade de contribuição do github "  src = " https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake-dark.svg " >
+</ imagem >
 </div>
  

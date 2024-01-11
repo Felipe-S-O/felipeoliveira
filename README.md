@@ -35,6 +35,10 @@
   <a href= "https://inottec.com.br/felipe/"><img src="https://user-images.githubusercontent.com/63815922/205277493-470a46d6-968a-492a-abc9-cb08073982bb.png" target="_blank"></a>
   <a href= "https://inottec.com.br/"><img src="https://user-images.githubusercontent.com/63815922/205286127-493bab79-1336-44dd-be70-959d9c8e90b0.png" target="_blank"></a>
 
-![ Animação de cobra ] ( https://github.com/Felipe-SO/Felipe-SO/blob/output/github-contribution-grid-snake.svg )
+<imagem> _ _
+  < source  media = " (prefere esquema de cores: escuro) "  srcset = " https:// raw.githubusercontent. com/Felipe- SO /Felipe- SO/2fcd2f35aaecaa351164670576e9099a912bedb0 /github-contribution-grid-snake-dark.svg " >
+  < source  media = " (prefere esquema de cores: light) "  srcset = " https:// raw.githubusercontent. com/Felipe- SO /Felipe- SO/2fcd2f35aaecaa351164670576e9099a912bedb0/ github-contribution-grid-snake -dark .svg " >
+  < img  alt = " animação de cobra de grade de contribuição do github "  src = " https:// raw.githubusercontent. com/Felipe- SO /Felipe- SO/2fcd2f35aaecaa351164670576e9099a912bedb0/ github-contribution-grid-snake -dark .svg " >
+</ imagem >
 </div>
  

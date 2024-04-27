@@ -17,15 +17,20 @@
 </br>
 
 ### 🖥️ Technologies and Tools: 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring-Boot"/></code>
-<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React"/></code>
+<code><img width="40px" src="https://i.imgur.com/AOYPE8i.png" title = "JAVA"/></code>
+<code><img width="34px" src="https://i.imgur.com/CPRjfzd.png" title = "Spring-Boot"/></code>
+<code><img width="30px" src="https://i.imgur.com/M60wzYS.png" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://i.imgur.com/tayJhSd.png" title = "React"/></code>
 <code><img width="40px" src="https://i.imgur.com/p5EyonE.png" title = "Angular"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://i.imgur.com/jD5BerR.png" title = "ANDROID"/></code>
+<code><img width="40px" src="https://i.imgur.com/tqTqKer.png" title = "HTML5"/></code>
 <code><img width="40px" src="https://i.imgur.com/To34tSt.png" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>       
+<code><img width="40px" src="https://i.imgur.com/SqRO0Ul.png" title = "MYSQL"/></code>    
+<code><img width="40px" src="https://i.imgur.com/aEXtxVP.png" title = "DOCKER"/></code>   
+<code><img width="40px" src="https://i.imgur.com/zB7TyEF.png" title = "FIREBASE"/></code> 
+<code><img width="40px" src="https://i.imgur.com/qMVjPdh.png" title = "MARIADB"/></code> 
+<code><img width="40px" src="https://i.imgur.com/hNS6JzP.png" title = "MONGODB"/></code> 
+<code><img width="40px" src="https://i.imgur.com/xqUoxhI.png" title = "POSTGRE"/></code> 
   
   ## 
 <div>

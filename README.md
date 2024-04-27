@@ -11,7 +11,7 @@
 <div display="inline-block">
  <p align="left">🎓 Graduated in Systems Analyst and Developer at <a href="https://estacio.br/">Estacio de Sá</a>;</p>
  <p align="left">🧑‍💻 I am currently working on a project at <a href="https://www.inottec.com.br/">inottec</a>;</p>
- <p align="left">⚡ I founded <a> href="https://www.inottec.com.br/">inottec</a>, a technology solutions company;</p>
+ <p align="left">⚡ I founded <a href="https://www.inottec.com.br/">inottec</a>, a technology solutions company;</p>
  <p align="left">📚 I'm currently studying Spring, Angular and React to develop a web application;</p>
 </div>
 </br>

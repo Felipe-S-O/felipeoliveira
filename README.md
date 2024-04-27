@@ -17,6 +17,7 @@
 </br>
 
 ### 🖥️ Technologies and Tools: 
+<div>
 <code><img width="34px" src="https://i.imgur.com/AOYPE8i.png" title = "JAVA"/></code>
 <code><img width="34px" src="https://i.imgur.com/CPRjfzd.png" title = "Spring-Boot"/></code>
 <code><img width="34px" src="https://i.imgur.com/M60wzYS.png" title = "JAVASCRIPT"/></code>
@@ -31,7 +32,7 @@
 <code><img width="34px" src="https://i.imgur.com/qMVjPdh.png" title = "MARIADB"/></code> 
 <code><img width="34px" src="https://i.imgur.com/hNS6JzP.png" title = "MONGODB"/></code> 
 <code><img width="34px" src="https://i.imgur.com/xqUoxhI.png" title = "POSTGRE"/></code> 
-  
+ </div> 
   ## 
 <div>
   <a href="https://www.linkedin.com/in/felipe-silva-0006b11ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -10,8 +10,6 @@
 ## Welcome to my GitHub profile 👋
 <div display="inline-block">
  <p align="left">🎓 Graduated in Systems Analyst and Developer at <a href="https://estacio.br/">Estacio de Sá</a>;</p>
- <p align="left">🧑‍💻 I am currently working on a project at <a href="https://www.inottec.com.br/">inottec</a>;</p>
- <p align="left">⚡ I founded <a href="https://www.inottec.com.br/">inottec</a>, a technology solutions company;</p>
  <p align="left">📚 I'm currently studying Spring, Angular and React to develop a web application;</p>
 </div>
 </br>
@@ -40,7 +38,6 @@
   <a href = "mailto:felipe.silva414897@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://discord.gg"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href= "https://portfolio-sand-xi-34.vercel.app/"><img src="https://user-images.githubusercontent.com/63815922/205277493-470a46d6-968a-492a-abc9-cb08073982bb.png" target="_blank"></a>
-  <a href= "https://inottec.com.br/"><img src="https://user-images.githubusercontent.com/63815922/205286127-493bab79-1336-44dd-be70-959d9c8e90b0.png" target="_blank"></a>
     
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipe-S-O/Felipe-S-O/2fcd2f35aaecaa351164670576e9099a912bedb0/github-contribution-grid-snake-dark.svg">
